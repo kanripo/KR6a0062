@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 新歲經
+#+DATE: 2015-08-30 19:29:59.217329
+#+PROPERTY: JUAN 0
